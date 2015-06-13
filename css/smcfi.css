@@ -1,0 +1,23 @@
+.smcfi-flag {
+    display: inline-block;
+    width: 15%;
+    text-align: left;
+}
+
+.smcfi-flag img {
+    height: 2em;
+    vertical-align: middle;
+}
+
+.smcfi-name {
+    vertical-align: middle;
+    width: 55%;
+    display: inline-block;
+}
+
+.smcfi-misc {
+    vertical-align: middle;
+    width: 30%;
+    display: inline-block;
+    text-align: right;
+}
